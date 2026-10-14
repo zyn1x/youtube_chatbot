@@ -1,7 +1,13 @@
-Create a .env file in the working directory
-paste your huggingface hub api token--> 
+1.Create a .env file in the working directory
+<br>
+2.paste your huggingface hub api token--> 
 HUGGINGFACEHUB_API_TOKEN='your_api_token'
-copy the youtube url
-run the script
-paste the url
-enter your query
+<br>
+3.copy the youtube url
+<br>
+4.run the script
+<br>
+5.paste the url
+<br>
+6.enter your query
+<br>
